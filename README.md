@@ -1,6 +1,8 @@
 # Electronic Skills 5: [Blinkenlights](http://helpdesk.esf.edu/cns/portals/0/Files/Documents/jargon-4.4.5/html/B/blinkenlights.html)
 In this assignment you build a circuit with two LEDs blinking back and forth.
 
+![Metronome cats](images/metronome.gif)
+
 ## Instructions
 In this circuit you are introduced to the capacitor. Start by watching the following videos: 
 * [MAKE Presentes: The Capacitor](https://youtu.be/ZYH9dGl4gUE) 
