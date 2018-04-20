@@ -1,5 +1,5 @@
 # Electronic Skills 5: [Blinkenlights](http://helpdesk.esf.edu/cns/portals/0/Files/Documents/jargon-4.4.5/html/B/blinkenlights.html)
-In this assignment you build a circuit with two LEDs blinking back and forth.
+In this assignment you build a circuit with two LEDs blinking back and forth. This circuit is a electronic version of a [metronome](https://en.wikipedia.org/wiki/Metronome) and can be used as a timing device for circuits.
 
 ![Metronome cats](images/metronome.gif)
 
