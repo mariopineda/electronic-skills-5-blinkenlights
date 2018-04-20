@@ -1,4 +1,4 @@
-# Electronic Skills 5: Blinkenlights
+# Electronic Skills 5: [Blinkenlights](http://helpdesk.esf.edu/cns/portals/0/Files/Documents/jargon-4.4.5/html/B/blinkenlights.html)
 In this assignment you build a circuit with two LEDs blinking back and forth.
 
 ## Instructions
