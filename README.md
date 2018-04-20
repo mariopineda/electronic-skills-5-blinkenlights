@@ -2,7 +2,10 @@
 In this assignment you build a circuit with two LEDs blinking back and forth.
 
 ## Instructions
-In this circuit you are introduced to the capacitor. Start by watching the following videos: https://youtu.be/ZYH9dGl4gUE and https://youtu.be/4Hg7SLhetXM and https://youtu.be/5hFC9ugTGLs.
+In this circuit you are introduced to the capacitor. Start by watching the following videos: 
+* [MAKE Presentes: The Capacitor](https://youtu.be/ZYH9dGl4gUE) 
+* [What Are Capacitors?](https://youtu.be/4Hg7SLhetXM) 
+* [How Capacitors Work](https://youtu.be/5hFC9ugTGLs)
 
 Study the attached circuit diagram and identify the components and (if necessary) review their functionality. You need to know what the different components do in the circuit and how they work, e.g. identify the terminals, possible polarization, etc. You will be using your battery pack to power the circuit. Make sure you watch the attached videos to help you understand how capacitors works. Keep in mind that the circuit diagram does not represent the layout of the components on the breadboard, but rather it represents the connections you need to create between the components on the breadboard.
 Show the circuit to your teacher for marking.   
